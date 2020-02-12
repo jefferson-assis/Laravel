@@ -1,0 +1,12 @@
+>> comando: php -v
+serve para verificar a versão
+
+>> comando: composer -V
+
+>> comando: composer global require laravel/installer
+
+>> comando: composer create-project --prefer-dist laravel/laravel aula01
+
+>> comando: php artisan -V
+
+>> comando: php artisan serve
